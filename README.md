@@ -17,6 +17,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/nageshwari76/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nageshwari76/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nageshwari76/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nageshwari76/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/nageshwari76/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nageshwari76/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
