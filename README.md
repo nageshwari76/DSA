@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Greedy
@@ -13,6 +14,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -53,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nageshwari76/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
