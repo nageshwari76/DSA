@@ -110,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/nageshwari76/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
 <!---LeetCode Topics End-->
