@@ -65,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nageshwari76/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
@@ -116,4 +117,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/nageshwari76/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
