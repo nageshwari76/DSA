@@ -8,6 +8,7 @@
 | [0059-spiral-matrix-ii](https://github.com/nageshwari76/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nageshwari76/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -145,4 +146,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
