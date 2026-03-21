@@ -74,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nageshwari76/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
@@ -110,6 +111,7 @@
 | [0018-4sum](https://github.com/nageshwari76/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/nageshwari76/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nageshwari76/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nageshwari76/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
@@ -139,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/nageshwari76/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/nageshwari76/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
