@@ -139,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/nageshwari76/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/nageshwari76/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
