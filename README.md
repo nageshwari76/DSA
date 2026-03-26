@@ -23,6 +23,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nageshwari76/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nageshwari76/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nageshwari76/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nageshwari76/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nageshwari76/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nageshwari76/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nageshwari76/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nageshwari76/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nageshwari76/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nageshwari76/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +118,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/nageshwari76/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nageshwari76/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nageshwari76/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nageshwari76/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +221,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/nageshwari76/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nageshwari76/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
