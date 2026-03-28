@@ -60,6 +60,7 @@
 | [0126-word-ladder-ii](https://github.com/nageshwari76/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/nageshwari76/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/nageshwari76/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0415-add-strings](https://github.com/nageshwari76/DSA/tree/main/0415-add-strings/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nageshwari76/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -166,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nageshwari76/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [1622-fancy-sequence](https://github.com/nageshwari76/DSA/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nageshwari76/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -247,4 +250,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nageshwari76/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 <!---LeetCode Topics End-->
