@@ -12,6 +12,7 @@
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nageshwari76/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0134-gas-station](https://github.com/nageshwari76/DSA/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nageshwari76/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nageshwari76/DSA/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/nageshwari76/DSA/tree/main/0134-gas-station/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
