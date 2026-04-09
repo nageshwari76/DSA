@@ -256,6 +256,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -264,12 +265,14 @@
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nageshwari76/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -328,4 +331,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nageshwari76/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
