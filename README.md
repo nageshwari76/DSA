@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nageshwari76/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/nageshwari76/DSA/tree/main/0134-gas-station/) | Medium |
+| [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -86,6 +87,7 @@
 | [0541-reverse-string-ii](https://github.com/nageshwari76/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nageshwari76/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nageshwari76/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nageshwari76/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nageshwari76/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -156,6 +158,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/nageshwari76/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0264-ugly-number-ii](https://github.com/nageshwari76/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/nageshwari76/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nageshwari76/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -208,6 +211,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nageshwari76/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
