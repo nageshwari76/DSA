@@ -15,6 +15,7 @@
 | [0134-gas-station](https://github.com/nageshwari76/DSA/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/nageshwari76/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nageshwari76/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/nageshwari76/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nageshwari76/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -125,6 +126,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/nageshwari76/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/nageshwari76/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nageshwari76/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/nageshwari76/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/nageshwari76/DSA/tree/main/0264-ugly-number-ii/) | Medium |
