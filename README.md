@@ -78,6 +78,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nageshwari76/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/nageshwari76/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/nageshwari76/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/nageshwari76/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/nageshwari76/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/nageshwari76/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -123,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nageshwari76/DSA/tree/main/0055-jump-game/) | Medium |
+| [0115-distinct-subsequences](https://github.com/nageshwari76/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/nageshwari76/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/nageshwari76/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
