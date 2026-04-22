@@ -34,6 +34,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nageshwari76/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nageshwari76/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nageshwari76/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nageshwari76/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/nageshwari76/DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -109,6 +110,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nageshwari76/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nageshwari76/DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nageshwari76/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nageshwari76/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nageshwari76/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -358,6 +360,7 @@
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/nageshwari76/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nageshwari76/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
