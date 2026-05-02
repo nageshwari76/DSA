@@ -161,6 +161,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nageshwari76/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/nageshwari76/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nageshwari76/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0788-rotated-digits](https://github.com/nageshwari76/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nageshwari76/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nageshwari76/DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -229,6 +230,7 @@
 | [0264-ugly-number-ii](https://github.com/nageshwari76/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/nageshwari76/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0415-add-strings](https://github.com/nageshwari76/DSA/tree/main/0415-add-strings/) | Easy |
+| [0788-rotated-digits](https://github.com/nageshwari76/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/nageshwari76/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nageshwari76/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
