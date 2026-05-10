@@ -41,6 +41,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nageshwari76/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/nageshwari76/DSA/tree/main/2751-robot-collisions/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nageshwari76/DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nageshwari76/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nageshwari76/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/nageshwari76/DSA/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
@@ -173,6 +174,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nageshwari76/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nageshwari76/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nageshwari76/DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nageshwari76/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/nageshwari76/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/nageshwari76/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
