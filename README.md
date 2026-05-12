@@ -29,6 +29,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nageshwari76/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nageshwari76/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nageshwari76/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -69,6 +70,7 @@
 | [0134-gas-station](https://github.com/nageshwari76/DSA/tree/main/0134-gas-station/) | Medium |
 | [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nageshwari76/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -297,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/nageshwari76/DSA/tree/main/0018-4sum/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/nageshwari76/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nageshwari76/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
