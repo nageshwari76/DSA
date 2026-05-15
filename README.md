@@ -16,6 +16,7 @@
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/nageshwari76/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nageshwari76/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nageshwari76/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/nageshwari76/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nageshwari76/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -278,6 +279,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nageshwari76/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nageshwari76/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nageshwari76/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
