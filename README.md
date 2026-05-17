@@ -67,6 +67,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nageshwari76/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nageshwari76/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nageshwari76/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/nageshwari76/DSA/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nageshwari76/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/nageshwari76/DSA/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
