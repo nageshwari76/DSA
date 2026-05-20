@@ -261,6 +261,7 @@
 | [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0264-ugly-number-ii](https://github.com/nageshwari76/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/nageshwari76/DSA/tree/main/0279-perfect-squares/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/nageshwari76/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/nageshwari76/DSA/tree/main/0415-add-strings/) | Easy |
 | [0788-rotated-digits](https://github.com/nageshwari76/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/nageshwari76/DSA/tree/main/1622-fancy-sequence/) | Hard |
@@ -275,6 +276,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/nageshwari76/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/nageshwari76/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Two Pointers
