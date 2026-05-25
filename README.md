@@ -139,6 +139,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nageshwari76/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nageshwari76/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nageshwari76/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1871-jump-game-vii](https://github.com/nageshwari76/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nageshwari76/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nageshwari76/DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -195,6 +196,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nageshwari76/DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/nageshwari76/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/nageshwari76/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nageshwari76/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nageshwari76/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -209,6 +211,7 @@
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nageshwari76/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [1871-jump-game-vii](https://github.com/nageshwari76/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nageshwari76/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -257,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nageshwari76/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/nageshwari76/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nageshwari76/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nageshwari76/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
