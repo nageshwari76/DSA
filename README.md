@@ -506,4 +506,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/nageshwari76/DSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
