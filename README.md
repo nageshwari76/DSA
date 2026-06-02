@@ -75,6 +75,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/nageshwari76/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nageshwari76/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nageshwari76/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nageshwari76/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/nageshwari76/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nageshwari76/DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -95,6 +96,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nageshwari76/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/nageshwari76/DSA/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -325,6 +327,7 @@
 | [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nageshwari76/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/nageshwari76/DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +338,7 @@
 | [2540-minimum-common-value](https://github.com/nageshwari76/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nageshwari76/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nageshwari76/DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -371,6 +375,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nageshwari76/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nageshwari76/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nageshwari76/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nageshwari76/DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
