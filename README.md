@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/nageshwari76/DSA/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nageshwari76/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nageshwari76/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nageshwari76/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -103,6 +104,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nageshwari76/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nageshwari76/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/nageshwari76/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nageshwari76/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -232,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nageshwari76/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/nageshwari76/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0126-word-ladder-ii](https://github.com/nageshwari76/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0133-clone-graph](https://github.com/nageshwari76/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
