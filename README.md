@@ -32,6 +32,7 @@
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nageshwari76/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/nageshwari76/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/nageshwari76/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nageshwari76/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1306-jump-game-iii](https://github.com/nageshwari76/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/nageshwari76/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -341,6 +342,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nageshwari76/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nageshwari76/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nageshwari76/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/nageshwari76/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nageshwari76/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/nageshwari76/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
