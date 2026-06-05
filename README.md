@@ -167,6 +167,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/nageshwari76/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nageshwari76/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nageshwari76/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/nageshwari76/DSA/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,4 +537,8 @@
 | [0175-combine-two-tables](https://github.com/nageshwari76/DSA/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nageshwari76/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/nageshwari76/DSA/tree/main/0182-duplicate-emails/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/nageshwari76/DSA/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 <!---LeetCode Topics End-->
