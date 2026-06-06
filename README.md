@@ -273,6 +273,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/nageshwari76/DSA/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
