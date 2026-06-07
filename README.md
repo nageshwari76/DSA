@@ -55,6 +55,7 @@
 | [2126-destroying-asteroids](https://github.com/nageshwari76/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nageshwari76/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nageshwari76/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nageshwari76/DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nageshwari76/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/nageshwari76/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -120,6 +121,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nageshwari76/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/nageshwari76/DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/nageshwari76/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nageshwari76/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -222,6 +224,7 @@
 | [1871-jump-game-vii](https://github.com/nageshwari76/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nageshwari76/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nageshwari76/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nageshwari76/DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nageshwari76/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -430,6 +433,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nageshwari76/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +458,7 @@
 | [1345-jump-game-iv](https://github.com/nageshwari76/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nageshwari76/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -474,6 +479,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nageshwari76/DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nageshwari76/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +487,7 @@
 | [0210-course-schedule-ii](https://github.com/nageshwari76/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nageshwari76/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,6 +522,7 @@
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
