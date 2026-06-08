@@ -26,6 +26,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nageshwari76/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nageshwari76/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/nageshwari76/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0518-coin-change-ii](https://github.com/nageshwari76/DSA/tree/main/0518-coin-change-ii/) | Medium |
@@ -258,6 +259,7 @@
 | [0229-majority-element-ii](https://github.com/nageshwari76/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/nageshwari76/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0290-word-pattern](https://github.com/nageshwari76/DSA/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0706-design-hashmap](https://github.com/nageshwari76/DSA/tree/main/0706-design-hashmap/) | Easy |
@@ -344,6 +346,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/nageshwari76/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/nageshwari76/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nageshwari76/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
@@ -357,6 +360,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nageshwari76/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nageshwari76/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nageshwari76/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nageshwari76/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nageshwari76/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/nageshwari76/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -389,6 +393,7 @@
 | [0018-4sum](https://github.com/nageshwari76/DSA/tree/main/0018-4sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/nageshwari76/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1340-jump-game-v](https://github.com/nageshwari76/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
