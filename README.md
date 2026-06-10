@@ -345,6 +345,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nageshwari76/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nageshwari76/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/nageshwari76/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/nageshwari76/DSA/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,6 +565,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nageshwari76/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/nageshwari76/DSA/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,6 +584,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nageshwari76/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/nageshwari76/DSA/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,4 +604,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/nageshwari76/DSA/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/nageshwari76/DSA/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 <!---LeetCode Topics End-->
