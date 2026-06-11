@@ -99,6 +99,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nageshwari76/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nageshwari76/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/nageshwari76/DSA/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/nageshwari76/DSA/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +312,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nageshwari76/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nageshwari76/DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nageshwari76/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/nageshwari76/DSA/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -565,6 +567,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nageshwari76/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nageshwari76/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/nageshwari76/DSA/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
