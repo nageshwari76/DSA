@@ -340,6 +340,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nageshwari76/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nageshwari76/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nageshwari76/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nageshwari76/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nageshwari76/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nageshwari76/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -447,6 +448,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nageshwari76/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nageshwari76/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +468,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nageshwari76/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nageshwari76/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
