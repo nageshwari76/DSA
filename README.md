@@ -15,6 +15,7 @@
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nageshwari76/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/nageshwari76/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/nageshwari76/DSA/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
@@ -274,6 +275,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nageshwari76/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/nageshwari76/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0126-word-ladder-ii](https://github.com/nageshwari76/DSA/tree/main/0126-word-ladder-ii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/nageshwari76/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/nageshwari76/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/nageshwari76/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nageshwari76/DSA/tree/main/0140-word-break-ii/) | Hard |
@@ -558,6 +560,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nageshwari76/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nageshwari76/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
