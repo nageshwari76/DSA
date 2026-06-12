@@ -423,6 +423,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/nageshwari76/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0706-design-hashmap](https://github.com/nageshwari76/DSA/tree/main/0706-design-hashmap/) | Easy |
@@ -471,6 +472,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -510,6 +512,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -541,6 +544,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nageshwari76/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/nageshwari76/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/nageshwari76/DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/nageshwari76/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nageshwari76/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -618,6 +622,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -666,4 +671,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
