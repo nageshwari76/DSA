@@ -469,6 +469,7 @@
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nageshwari76/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -484,6 +485,7 @@
 | [0207-course-schedule](https://github.com/nageshwari76/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nageshwari76/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -502,6 +504,7 @@
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nageshwari76/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -604,6 +607,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
