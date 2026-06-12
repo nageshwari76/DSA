@@ -483,6 +483,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nageshwari76/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/nageshwari76/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nageshwari76/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nageshwari76/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nageshwari76/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -504,6 +505,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nageshwari76/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nageshwari76/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/nageshwari76/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/nageshwari76/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1306-jump-game-iii](https://github.com/nageshwari76/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -527,6 +529,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nageshwari76/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/nageshwari76/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nageshwari76/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -640,6 +643,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nageshwari76/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/nageshwari76/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
