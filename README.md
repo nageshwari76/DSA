@@ -211,6 +211,7 @@
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/nageshwari76/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/nageshwari76/DSA/tree/main/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/nageshwari76/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nageshwari76/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -397,6 +398,7 @@
 | [0143-reorder-list](https://github.com/nageshwari76/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/nageshwari76/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/nageshwari76/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nageshwari76/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nageshwari76/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -476,6 +478,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/nageshwari76/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/nageshwari76/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/nageshwari76/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/nageshwari76/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/nageshwari76/DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Tree
@@ -573,6 +576,7 @@
 | [0143-reorder-list](https://github.com/nageshwari76/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/nageshwari76/DSA/tree/main/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/nageshwari76/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/nageshwari76/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nageshwari76/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
