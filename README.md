@@ -241,6 +241,7 @@
 | [0055-jump-game](https://github.com/nageshwari76/DSA/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nageshwari76/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/nageshwari76/DSA/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/nageshwari76/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/nageshwari76/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/nageshwari76/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/nageshwari76/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -337,6 +338,7 @@
 | [0077-combinations](https://github.com/nageshwari76/DSA/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/nageshwari76/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/nageshwari76/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/nageshwari76/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/nageshwari76/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -491,6 +493,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nageshwari76/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nageshwari76/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -544,6 +547,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nageshwari76/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nageshwari76/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -669,6 +673,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nageshwari76/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
