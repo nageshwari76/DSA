@@ -484,6 +484,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/nageshwari76/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/nageshwari76/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/nageshwari76/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/nageshwari76/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/nageshwari76/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -498,6 +499,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nageshwari76/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/nageshwari76/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -552,6 +554,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nageshwari76/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nageshwari76/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/nageshwari76/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/nageshwari76/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -666,6 +669,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nageshwari76/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -676,6 +680,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/nageshwari76/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
