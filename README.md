@@ -29,6 +29,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nageshwari76/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nageshwari76/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nageshwari76/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/nageshwari76/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -298,6 +299,7 @@
 | [0229-majority-element-ii](https://github.com/nageshwari76/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/nageshwari76/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0290-word-pattern](https://github.com/nageshwari76/DSA/tree/main/0290-word-pattern/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nageshwari76/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/nageshwari76/DSA/tree/main/0409-longest-palindrome/) | Easy |
@@ -431,6 +433,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/nageshwari76/DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -455,6 +458,7 @@
 | [0018-4sum](https://github.com/nageshwari76/DSA/tree/main/0018-4sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/nageshwari76/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nageshwari76/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -646,6 +650,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nageshwari76/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/nageshwari76/DSA/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 ## Binary Search Tree
@@ -666,6 +671,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/nageshwari76/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/nageshwari76/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nageshwari76/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -686,6 +692,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -704,6 +711,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nageshwari76/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
