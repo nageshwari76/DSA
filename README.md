@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/nageshwari76/DSA/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nageshwari76/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nageshwari76/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/nageshwari76/DSA/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/nageshwari76/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nageshwari76/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nageshwari76/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nageshwari76/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nageshwari76/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -237,6 +239,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nageshwari76/DSA/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nageshwari76/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/nageshwari76/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/nageshwari76/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/nageshwari76/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
