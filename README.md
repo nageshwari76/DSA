@@ -37,6 +37,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/nageshwari76/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/nageshwari76/DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/nageshwari76/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nageshwari76/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/nageshwari76/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/nageshwari76/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -309,6 +310,7 @@
 | [0409-longest-palindrome](https://github.com/nageshwari76/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nageshwari76/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/nageshwari76/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/nageshwari76/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nageshwari76/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/nageshwari76/DSA/tree/main/0706-design-hashmap/) | Easy |
@@ -349,6 +351,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/nageshwari76/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nageshwari76/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nageshwari76/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/nageshwari76/DSA/tree/main/1871-jump-game-vii/) | Medium |
@@ -372,6 +375,7 @@
 | [0279-perfect-squares](https://github.com/nageshwari76/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/nageshwari76/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/nageshwari76/DSA/tree/main/0415-add-strings/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/nageshwari76/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0788-rotated-digits](https://github.com/nageshwari76/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/nageshwari76/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
