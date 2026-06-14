@@ -40,6 +40,7 @@
 | [0523-continuous-subarray-sum](https://github.com/nageshwari76/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nageshwari76/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/nageshwari76/DSA/tree/main/0706-design-hashmap/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nageshwari76/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/nageshwari76/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nageshwari76/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -117,6 +118,7 @@
 | [0134-gas-station](https://github.com/nageshwari76/DSA/tree/main/0134-gas-station/) | Medium |
 | [0409-longest-palindrome](https://github.com/nageshwari76/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nageshwari76/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nageshwari76/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/nageshwari76/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -263,6 +265,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nageshwari76/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/nageshwari76/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nageshwari76/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nageshwari76/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nageshwari76/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/nageshwari76/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nageshwari76/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
