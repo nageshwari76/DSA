@@ -43,6 +43,7 @@
 | [0733-flood-fill](https://github.com/nageshwari76/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nageshwari76/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0853-car-fleet](https://github.com/nageshwari76/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/nageshwari76/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/nageshwari76/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nageshwari76/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -472,6 +473,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nageshwari76/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nageshwari76/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0853-car-fleet](https://github.com/nageshwari76/DSA/tree/main/0853-car-fleet/) | Medium |
 | [1340-jump-game-v](https://github.com/nageshwari76/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -614,6 +616,7 @@
 | [0503-next-greater-element-ii](https://github.com/nageshwari76/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nageshwari76/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/nageshwari76/DSA/tree/main/0853-car-fleet/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nageshwari76/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/nageshwari76/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
@@ -621,6 +624,7 @@
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/nageshwari76/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/nageshwari76/DSA/tree/main/0853-car-fleet/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
