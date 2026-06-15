@@ -188,6 +188,7 @@
 | [0224-basic-calculator](https://github.com/nageshwari76/DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0257-binary-tree-paths](https://github.com/nageshwari76/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/nageshwari76/DSA/tree/main/0290-word-pattern/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/nageshwari76/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/nageshwari76/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/nageshwari76/DSA/tree/main/0415-add-strings/) | Easy |
@@ -470,6 +471,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/nageshwari76/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/nageshwari76/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nageshwari76/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0706-design-hashmap](https://github.com/nageshwari76/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [1622-fancy-sequence](https://github.com/nageshwari76/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/nageshwari76/DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -534,6 +536,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nageshwari76/DSA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/nageshwari76/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/nageshwari76/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -562,6 +565,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nageshwari76/DSA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/nageshwari76/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/nageshwari76/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -596,6 +600,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nageshwari76/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nageshwari76/DSA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/nageshwari76/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/nageshwari76/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/nageshwari76/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -616,6 +621,7 @@
 | [0207-course-schedule](https://github.com/nageshwari76/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nageshwari76/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/nageshwari76/DSA/tree/main/0279-perfect-squares/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nageshwari76/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/nageshwari76/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nageshwari76/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
