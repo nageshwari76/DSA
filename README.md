@@ -173,6 +173,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nageshwari76/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nageshwari76/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0038-count-and-say](https://github.com/nageshwari76/DSA/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/nageshwari76/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0068-text-justification](https://github.com/nageshwari76/DSA/tree/main/0068-text-justification/) | Hard |
 | [0079-word-search](https://github.com/nageshwari76/DSA/tree/main/0079-word-search/) | Medium |
