@@ -62,6 +62,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nageshwari76/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nageshwari76/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nageshwari76/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nageshwari76/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nageshwari76/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -342,6 +343,7 @@
 | [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/nageshwari76/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/nageshwari76/DSA/tree/main/1345-jump-game-iv/) | Hard |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nageshwari76/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nageshwari76/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/nageshwari76/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nageshwari76/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -504,6 +506,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/nageshwari76/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0853-car-fleet](https://github.com/nageshwari76/DSA/tree/main/0853-car-fleet/) | Medium |
 | [1340-jump-game-v](https://github.com/nageshwari76/DSA/tree/main/1340-jump-game-v/) | Hard |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nageshwari76/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1840-maximum-building-height](https://github.com/nageshwari76/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nageshwari76/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
