@@ -117,6 +117,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nageshwari76/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nageshwari76/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/nageshwari76/DSA/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nageshwari76/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/nageshwari76/DSA/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -256,6 +257,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/nageshwari76/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nageshwari76/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nageshwari76/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nageshwari76/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +424,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nageshwari76/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/nageshwari76/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/nageshwari76/DSA/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nageshwari76/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +458,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/nageshwari76/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/nageshwari76/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nageshwari76/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -521,6 +525,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nageshwari76/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nageshwari76/DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nageshwari76/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -777,6 +782,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nageshwari76/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nageshwari76/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/nageshwari76/DSA/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nageshwari76/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
