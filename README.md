@@ -131,6 +131,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nageshwari76/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/nageshwari76/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nageshwari76/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nageshwari76/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nageshwari76/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nageshwari76/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -207,6 +208,7 @@
 | [0657-robot-return-to-origin](https://github.com/nageshwari76/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nageshwari76/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/nageshwari76/DSA/tree/main/0763-partition-labels/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nageshwari76/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nageshwari76/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nageshwari76/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nageshwari76/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -681,6 +683,7 @@
 | [0678-valid-parenthesis-string](https://github.com/nageshwari76/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/nageshwari76/DSA/tree/main/0853-car-fleet/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nageshwari76/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nageshwari76/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/nageshwari76/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
@@ -689,6 +692,7 @@
 | [0503-next-greater-element-ii](https://github.com/nageshwari76/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/nageshwari76/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/nageshwari76/DSA/tree/main/0853-car-fleet/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nageshwari76/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
