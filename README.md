@@ -104,6 +104,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/nageshwari76/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nageshwari76/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nageshwari76/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/nageshwari76/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/nageshwari76/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nageshwari76/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -233,6 +234,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nageshwari76/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/nageshwari76/DSA/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nageshwari76/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nageshwari76/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/nageshwari76/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/nageshwari76/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/nageshwari76/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -486,6 +488,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nageshwari76/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/nageshwari76/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nageshwari76/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nageshwari76/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nageshwari76/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nageshwari76/DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Heap (Priority Queue)
@@ -512,6 +515,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/nageshwari76/DSA/tree/main/1622-fancy-sequence/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nageshwari76/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nageshwari76/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
